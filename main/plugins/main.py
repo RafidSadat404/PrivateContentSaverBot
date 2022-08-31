@@ -27,6 +27,7 @@ Bot = Client(
 )
 
 userbot = Client(
+    name="Simple-Pyrogram-Bot",
     session_string=SESSION, 
     api_hash=API_HASH, 
     api_id=API_ID)
